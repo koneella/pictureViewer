@@ -12,9 +12,13 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/viewer/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/viewer/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/viewer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/viewer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/MainLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/MainLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/javalite-common-2.3.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/viewer/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/viewer/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/viewer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/viewer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MainLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MainLayout.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,41 +42,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nasapictureviewer" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nasapictureviewer" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nasapictureviewer" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nasapictureviewer" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nasapictureviewer" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nasapictureviewer" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -179,6 +149,8 @@
       <workItem from="1565793569404" duration="2424000" />
       <workItem from="1565796005627" duration="563000" />
       <workItem from="1565797650426" duration="120000" />
+      <workItem from="1567587485931" duration="719000" />
+      <workItem from="1567588215896" duration="1618000" />
     </task>
     <servers />
   </component>

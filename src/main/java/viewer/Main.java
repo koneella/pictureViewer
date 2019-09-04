@@ -14,7 +14,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("/MainLayout.fxml"));
-        primaryStage.setTitle("Nasa viewer");
+        primaryStage.setTitle("pictureViewer");
         primaryStage.setScene(new Scene(root, 1000 , 600));
         primaryStage.show();
 
