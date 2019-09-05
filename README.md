@@ -1,6 +1,6 @@
 
 # pictureViewer
-Program to show random dog pictures from an API.(https://dog.ceo/dog-api/)  
+Program to show random dog pictures from an API. (https://dog.ceo/dog-api/)  
 
 
 # Built with
