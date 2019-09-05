@@ -1,5 +1,6 @@
 package viewer;
 
+import javafx.beans.property.ObjectProperty;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Button;
@@ -30,6 +31,12 @@ public class Controller implements Initializable {
 
         } catch (Exception e) {
             System.out.println(e);
+
+            alert.showAndWait().ifPresent(response -> {
+                if (response == ButtonType.OK) {
+                    formatSystem();
+                }
+            });
         }
 
 
